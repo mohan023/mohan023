@@ -7,11 +7,14 @@ Here are some ideas to get you started:-->
 
 - 10 years of experience in .net development. Currently working on asp.net core mvc,webapi, github, docker. I have worked mostly in banking domain and product based fortune 500 companies. I'm self starter and work without supervision. Have technical and managerial skills.
 - I've good exposure in the followings.<br>
-```       * Vast experience in production support
-          * Development using latest technologies
-          * Technical architecture design
-          * Code reviews
-          * Resolvings security issues reported by static code analysis tool
+```       
+          * Vast experience in production support
+          * Accept and lead any challenges till it is resolved. 
+          * Mentoring and show direction to the team.
+          * Exposure in many latest development tools and technologies.
+          * Technical architecture design and code reviews
+          * Exposure in cyber security.
+          * Ability to communicate with group of people without any fear.
  ```       
 
 <!---- 👯 I’m looking to collaborate on ...
