@@ -16,6 +16,7 @@ Here are some ideas to get you started:-->
           * Technical architecture design and code reviews
           * Exposure in cyber security.
           * Ability to communicate with group of people without any fear.
+          * Experience in conducting technical sessions in the organisation.
  ```       
 
 <!---- 👯 I’m looking to collaborate on ...
