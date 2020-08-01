@@ -9,6 +9,7 @@ Here are some ideas to get you started:-->
 - I've good exposure in the followings.<br>
 ```       
           * Experience in working on enterprise level highly distributed and secure web applications. 
+          * Experience and deep understandings in application security and performance.
           * Vast experience in development and production support
           * Accept and lead any challenges till it is resolved. 
           * Mentoring and show direction to the team.
