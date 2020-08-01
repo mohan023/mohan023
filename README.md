@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I've around 10 years of experience in .net development. Currently working on asp.net core mvc, github, docker. I have worked mostly in banking domain and product based fortune 500 companies.
-- 🌱 I've good exposure in the followings.<br>
-          * Development using latest technologies<br/>
-          * Production issues troubleshooting. <br/>
-          * Technical architecture design<br/>
-          * Code reviews<br/>
-          * Resolvings security issues reported by static code analysis tool<br/>
-          
+- 10 years of experience in .net development. Currently working on asp.net core mvc,webapi, github, docker. I have worked mostly in banking domain and product based fortune 500 companies. I'm self starter and work without supervision. Have technical and managerial skills.
+- I've good exposure in the followings.<br>
+```       * Vast experience in production support
+          * Development using latest technologies
+          * Technical architecture design
+          * Code reviews
+          * Resolvings security issues reported by static code analysis tool
+ ```       
 
 <!---- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
