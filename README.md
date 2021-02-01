@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 10 years of experience in .net development. Currently working on asp.net core mvc,webapi, github, docker. I have worked mostly in banking domain and product based fortune 500 companies. I'm self starter and work without or zero supervision. Have technical and managerial skills.
+- 10 years of experience in .net development, devops, pipeline buiding, automation and cloud commputing platform. Over 7+ year of experience in US banking domain. I'm a self starter and work without or zero supervision. Have technical and managerial skills.
 - I've good exposure in the followings.<br>
 ```       
           * Experience in working on enterprise level highly distributed and secure web applications. 
@@ -18,6 +18,9 @@ Here are some ideas to get you started:-->
           * Exposure in cyber security.
           * Ability to communicate with group of people without any fear.
           * Experience in conducting technical sessions in the organisation.
+          * Good exposure and understandings to many cloud computing platform like Azure and PCF.
+          * DevOps tools and technology- Docker, Github, Jenkins, Powershell, Azure Devops 
+          
  ```       
 
 <!---- 👯 I’m looking to collaborate on ...
