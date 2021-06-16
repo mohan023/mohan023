@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 10 years of experience in .net development, devops, pipeline buiding, automation and cloud commputing platform. Over 7+ year of experience in US banking domain. Self starter and work without or zero supervision. Have technical and managerial skills.
 - I've good exposure in the followings.<br>
-```       * Good exposure and understandings to many cloud computing platform like Azure, PCF and openshift.
+```       * Good exposure and understandings of Azure and multicloud PaaS like PCF and Red Hat OpenShift.
           * Experience in cloud hosted distributed architecture applications using 12 factor principles and latest technologies
           * DevOps tools and technology- Kubernetes Docker, Github, Jenkins, Powershell, Azure Devops 
           * Experience in working on enterprise level highly distributed and secure web applications. 
