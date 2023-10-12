@@ -14,11 +14,13 @@ Here are some ideas to get you started:-->
           * Experience in working on enterprise level highly distributed and secure web applications. 
           * Experience and deep understandings in application security and performance.
           * Vast experience in development and L2, L3 production support
+          * Experience in .net development, c#, Microservicea, Databases and UI.
           * Technical architecture design and code reviews
           * Exposure in cyber security.
           * Shifting security early during application development/infra automation.
           * Experience in conducting technical sessions in the organisation.
           * Experience in resume screening and technical interviews
+          * Experience in Team Management
 
           
  ```       
