@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 13+ years of experience in working with various cloud providers(azure, aws), different PaaS, Infra automation, DevOps, Application development and team management. Over 7+ year of experience in US banking domain. Self starter and work without or zero supervision. Have technical and managerial skills.
+- 14+ years of experience in working with various cloud providers(azure, aws), different PaaS, Infra automation, DevOps, Application development and team management. Over 7+ year of experience in US banking domain. Self starter and work without or zero supervision. Have technical and managerial skills.
 - I've good exposure in the following area.<br>
 ```       * Good exposure and understandings of Azure, AWS and multicloud PaaS like PCF and Red Hat OpenShift.
           * Experience in Infrastructure Automation and fleet  management tools 
